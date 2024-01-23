@@ -1,46 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/posts/1243066710.html</url>
-    <content><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure></div>
-<p>More info: <a class="link" href="https://hexo.io/docs/writing.html">Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server">Run server</h3>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure></div>
-<p>More info: <a class="link" href="https://hexo.io/docs/server.html">Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure></div>
-<p>More info: <a class="link" href="https://hexo.io/docs/generating.html">Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure></div>
-<p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>星星点灯</title>
-    <url>/posts/1266805357.html</url>
-    <content><![CDATA[<p>✡</p>
-<p>​			二十年前，周星驰有一部电影叫《大话西游》，他在里面说：“如果非要把这段话加上一段期限，我希望是一万年。”</p>
-<p>​			但是二十年后，他在《西游降魔》这部电影理又说：“一万年太久，只争朝夕。”</p>
-<p>​		爱的期限是我爱你，之到我不爱你的那一刻就够了。</p>
-<p>​		而我愿意在有限的时间里无限地爱着你。</p>
-<p>​		爱永远指的是，现在的我爱着现在的你。</p>
-<hr>
-<p>​			我的内心发生过一场巨大的海啸，如今仍在暗流涌动，可能永远没有风平浪静的一天，但海风回暖，我按住在这海边的曼切斯特。</p>
-<p>​			人都是依赖记忆而存活的生物，我不断地幻想能不能回到以前。</p>
-<p>​			这是一个狼的世界，而你，只是一只羊。</p>
-<hr>
-<p>​</p>
-<p>​			“爱笑的女孩运气不一定好，但一定是最漂亮的。”</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/1243066710.html"/>
+      <url>/posts/1243066710.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure></div><p>More info: <a class="link" href="https://hexo.io/docs/writing.html">Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Run-server">Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure></div><p>More info: <a class="link" href="https://hexo.io/docs/server.html">Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Generate-static-files">Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure></div><p>More info: <a class="link" href="https://hexo.io/docs/generating.html">Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure></div><p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>星星点灯</title>
+      <link href="/posts/1266805357.html"/>
+      <url>/posts/1266805357.html</url>
+      
+        <content type="html"><![CDATA[<p>✡</p><p>​二十年前，周星驰有一部电影叫《大话西游》，他在里面说：“如果非要把这段话加上一段期限，我希望是一万年。”</p><p>​但是二十年后，他在《西游降魔》这部电影理又说：“一万年太久，只争朝夕。”</p><p>​爱的期限是我爱你，之到我不爱你的那一刻就够了。</p><p>​而我愿意在有限的时间里无限地爱着你。</p><p>​爱永远指的是，现在的我爱着现在的你。</p><hr><p>​我的内心发生过一场巨大的海啸，如今仍在暗流涌动，可能永远没有风平浪静的一天，但海风回暖，我按住在这海边的曼切斯特。</p><p>​人都是依赖记忆而存活的生物，我不断地幻想能不能回到以前。</p><p>​这是一个狼的世界，而你，只是一只羊。</p><hr><p>​</p><p>​“爱笑的女孩运气不一定好，但一定是最漂亮的。”</p>]]></content>
+      
+      
       <categories>
-        <category>star</category>
+          
+          <category> star </category>
+          
       </categories>
-      <tags>
-        <tag>star</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> star </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
